@@ -1,0 +1,56 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+skills:
+- name: .NET
+  logo: "/images/sections/skills/NET.png"
+  summary: "Capable of creating .NET apps, deploying, testing in MVC or repository pattern. Also capable of enabling a CI/CD through Azure DevOps"
+  url: "https://docs.microsoft.com/fr-fr/dotnet/"
+
+- name: Go Development
+  logo: "/images/sections/skills/go.png"
+  summary: "Experience with go languages. Capable of developing, testing and maintaining complex APIs."
+  url: "https://golang.org/"
+
+- name: Microsoft Azure
+  logo: "/images/sections/skills/azure.png"
+  summary: "Certified Azure fundamentals, experience with Microsoft's Cloud. Can deploy applications, website, pipelines, VMs and maintain."
+  url: "https://azure.microsoft.com/"
+
+- name: Unity
+  logo: "/images/sections/skills/unity.png"
+  summary: "Unity developer for five years. Did a lot of video games, and immeresive experiences (industry-based).For XR development and testing."
+  url: "https://unity.com/"
+
+- name: BabylonJS
+  logo: "/images/sections/skills/babylon.png"
+  summary: "Able to develop WebGL immersive experiences through BabylonJS. 3D, XR, AR experiences, with testing and proper architecture. Inclusion in React or other web projects possible."
+  url: "https://www.babylonjs.com/"
+
+- name: React
+  logo: "/images/sections/skills/react.png"
+  summary: "Capable of developing websites and application in React, with testing and continuous integration. Also did an interface between Azure Pub/Sub and React for an application."
+  url: "https://reactjs.org/"
+
+- name: SQL development
+  logo: "/images/sections/skills/sql.png"
+  summary: "Competent in using SQL and NoSQL databases. Experience with MariaDB, PostgreSQL, Azure Cosmos, Scylla, Oracle. Can also architecture a database."
+
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Competent in Java development, basic APIs and more complex programs. Also testing and cotinuous development handled."
+  url: "https://www.java.com/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Competent in Python development, with basic API and more complex programs. Used SpringBoot, Django, FastAPI, Flask."
+  url: "https://www.python.org/"
+
+- name: Docker
+  logo: "/images/sections/skills/docker.webp"
+  summary: "Able to write docker files for development, CI/CD or other usages."
+  url: "https://www.docker.com/"

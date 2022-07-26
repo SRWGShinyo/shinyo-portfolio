@@ -1,7 +1,7 @@
-baseURL: https://shinyo-portfolio.io
+baseURL: https://shinyo.dev
 
 languageCode: en-us
-title: "Yohann's Portfolio"
+title: "Shinyo's Portfolio"
 theme: "toha"
 
 # Manage languages
@@ -28,6 +28,12 @@ params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/SRWGShinyo/shinyo-portfolio
 
+  background: "images/background.jpeg"
+  logo:
+    main: images/author/cynthia.png
+    inverted: images/author/cynthia.png
+    favicon: images/author/cynthia.png
+
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
@@ -35,7 +41,7 @@ params:
   enableTOC: true
 
   topNavbar:
-    maxVisibleSections: 7
+    maxVisibleSections: 5
 
   # darkmode
   darkMode:

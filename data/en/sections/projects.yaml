@@ -21,14 +21,14 @@ projects:
   role: Developer
   timeline: "Jul 2022"
   url: https://froissant.itch.io/no-time-to-dice
-  summary: A narrative game made for GMTK2022 in 48h with a team of expert from groupe onepoint.
+  summary: A narrative game made for GMTK2022 in 48h with a team of expert from groupe onepoint. Ranked 158 out of 6165.
   tags: ["games", "jam", "challenge"]
 - name: Unity - 101 Formation
   logo: /images/sections/projects/unityjam.png
   role: Speaker
   timeline: "Jul 2022"
   repo: https://github.com/SRWGShinyo/unity101togetjamming
-  summary: A set of slides I made to teach new developers to the Unity3D engine. The goal was to introduce the engine and functionalities in a day.
+  summary: A set of slides I made to introduce new developers to the Unity3D engine. The goal was to introduce the engine and functionalities in a day.
   tags: ["professional", "unity", "formation"]
 - name: The Last Way - Our Way
   logo: /images/sections/projects/lastway.png

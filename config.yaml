@@ -41,7 +41,7 @@ params:
   enableTOC: true
 
   topNavbar:
-    maxVisibleSections: 5
+    maxVisibleSections: 6
 
   # darkmode
   darkMode:

@@ -3,4 +3,5 @@ section:
   id: recent-posts
   enable: true
   weight: 8
+  numShow: 1
   showOnNavbar: true

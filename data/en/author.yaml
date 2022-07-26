@@ -2,16 +2,17 @@
 name: "Yohann Degli Esposti"
 nickname: "Shinyo"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am Yohann Degli Esposti, and welcome to my website!"
-image: "images/author/john.png"
+greeting: "Hi there, I am"
+image: "images/author/cynthia.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-email: "yohann.degliesposti@gmail.com"
+  email: "yohann.degliesposti@gmail.com"
 
 # some summary about what you do
 summary:
-  - I am a Developer
-  - I am a Devops
-  - I love servers
-  - I work on open-source projects
-  - I love to work with some fun projects
+  - I am a backend Developer
+  - I sometimes do front-end development
+  - I love 3D/XR development, mostly with Unity
+  - I challenge myself in a lot of game jams
+  - I love to work with some personal side-projets
+  - I like reading, writing and I play saxophone

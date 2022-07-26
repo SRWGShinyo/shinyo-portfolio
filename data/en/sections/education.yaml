@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 5
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -12,7 +12,7 @@ section:
 degrees:
 - name: Software Engineering Diploma - European Section
   icon: fa-desktop
-  timeframe: 2016-2021
+  timeframe: Sep 2018-2021
   institution:
     name: EPITA
     url: "https://www.epita.fr/"
@@ -22,6 +22,12 @@ degrees:
   institution:
     name: Sapienza Università di Roma
     url: "https://www.uniroma1.it/it/pagina-strutturale/home"
+- name: Preparatory class in Engineering
+  icon: fa-pen
+  timeframe: Sep 2016-2018
+  institution:
+    name: EPITA
+    url: "https://www.epita.fr/"
 - name: Preparatory class in litterature
   icon: fa-book
   timeframe: 2014-2016
@@ -33,3 +39,4 @@ degrees:
   timeframe: 2011-2014
   institution:
     name: Lycée Fernand Daguin
+    url: "#"

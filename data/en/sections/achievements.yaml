@@ -1,0 +1,11 @@
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 7
+  showOnNavbar: true
+
+achievements:
+- title: Writing of a detective novel
+  image: /images/sections/achievements/books.jpeg
+  summary: From Jan 2018 to AUg 2019, I spent personal time writing a detective novel, inspired by Arthur Conan Doyle's work, Sherlock Holmes.

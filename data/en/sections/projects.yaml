@@ -1,0 +1,46 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Games
+  filter: "games"
+- name: Hobby
+  filter: "hobby"
+
+projects:
+- name: No Time To Dice
+  logo: /images/sections/projects/dice.png
+  role: Developer
+  timeline: "Jul 2022"
+  url: https://froissant.itch.io/no-time-to-dice
+  summary: A narrative game made for GMTK2022 in 48h with a team of expert from groupe onepoint.
+  tags: ["games", "jam", "challenge"]
+- name: Unity - 101 Formation
+  logo: /images/sections/projects/unityjam.png
+  role: Speaker
+  timeline: "Jul 2022"
+  repo: https://github.com/SRWGShinyo/unity101togetjamming
+  summary: A set of slides I made to teach new developers to the Unity3D engine. The goal was to introduce the engine and functionalities in a day.
+  tags: ["professional", "unity", "formation"]
+- name: The Last Way - Our Way
+  logo: /images/sections/projects/lastway.png
+  role: Developer
+  timeline: "Apr 2021"
+  url: https://srwgshinyo.itch.io/the-last-way
+  summary: A tactical RPG made for the Chill&Game Jam, created by the center Georges Pompidou.
+  tags: ["games", "jam", "challenge"]
+- name: The Devil's Glitch
+  logo: /images/sections/projects/tdg.png
+  role: Developer
+  timeline: "Jan 2020"
+  url: https://srwgshinyo.itch.io/the-devils-glitch
+  summary: A narrative GBA-style game made in 48hours for Wowie Game Jam 2.0. Ranked 20 out of 345.
+  tags: ["games", "jam", "challenge"]

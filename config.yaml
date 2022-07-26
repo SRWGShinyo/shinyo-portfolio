@@ -1,7 +1,7 @@
 baseURL: https://shinyo-portfolio.io
 
 languageCode: en-us
-title: "Yohann's portfolio"
+title: "Yohann's Website"
 theme: "toha"
 
 # Manage languages
@@ -17,7 +17,7 @@ staticDir:
 markup:
   tableOfContents:
     startLevel: 2
-    endLevel: 6
+    endLevel: 8
     ordered: false
 
 # Enable global emoji support
@@ -34,11 +34,15 @@ params:
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
 
+  topNavbar:
+    maxVisibleSections: 7
+
   # darkmode
   darkMode:
     enable: true
     provider: darkreader
     default: system
+
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:

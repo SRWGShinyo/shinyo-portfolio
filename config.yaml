@@ -28,7 +28,7 @@ params:
   # GitHub repo URL of your site
   gitRepo: https://github.com/SRWGShinyo/shinyo-portfolio
 
-  background: "images/background.jpeg"
+  background: "images/back.jpeg"
   logo:
     main: images/author/cynthia.png
     inverted: images/author/cynthia.png

@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Groupe onepoint.
+    url: "https://www.groupeonepoint.com/fr/"
+    location: Paris, France
+    overview: onepoint. is a consulting company known wildly. It promotes a quality work for its client, based on rigourous criteria.
+  positions:
+  - designation: Associate
+    start: Sept 2021
+    end: Aug 2022
+    responsibilities:
+    - Design and develop applications in .NET, backends and APIs, and benchmark for performance optimization.
+    - Conceive proper 3D solitions for different immersive experiences (visit of monuments, games...) with Roblox, Unity3D or BabylonJS.
+    - Develop and maintain a full API in Golang for an encryption-based identity system, respect of security criteria.
+
+- company:
+    name: IBM Interactive
+    url: "https://www.preexample.com"
+    location: Bois-Colombe, France
+    overview: IBM Interactive is a consulting company, aiming at giving its client innovative solutions.
+  positions:
+  - designation: 3D Intern
+    start: Sept 2019
+    end: Jan 2020
+    responsibilities:
+    - Development of an Angular website for 3D data visualisation.
+    - Development of a full 3D scene allowing for data visualisation, with information retrieval from remote API and display on the website.
+    - Development of a Virtual Reality industry exeprience aiming at allowing company directors to immerge in their buildings.

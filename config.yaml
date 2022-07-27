@@ -30,9 +30,9 @@ params:
 
   background: "images/back.jpeg"
   logo:
-    main: images/author/cynthia.png
-    inverted: images/author/cynthia.png
-    favicon: images/author/cynthia.png
+    main: images/author/cynthia-transp.png
+    inverted: images/author/cynthia-transp.png
+    favicon: images/author/cynthia-transp.png
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true

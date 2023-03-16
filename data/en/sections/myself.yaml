@@ -46,7 +46,7 @@ badges:
 - type: certification
   name: Professional Scrum Master (PSM I)
   url: "https://www.credly.com/org/scrum-org/badge/professional-scrum-master-i-psm-i"
-  badge: "/images/sections/certifications/psmi.png"
+  badge: "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/2022-09/asset_44psmi_0.png"
 
 - type: certification
   name: Microsoft Certified Azure Fundamentals

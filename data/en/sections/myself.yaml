@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Software Engineer / Scrum Master
 # your company information
 company:
-  name: Groupe onepoint.
-  url: "https://www.groupeonepoint.com/fr/"
+  name: IBM Interactive
+  url: "https://www.ibminteractive.fr/home"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/french_resume.pdf"
 
 # a summary about you
-summary: 'I am a software engineer with 2 years of experience. I specialize in innovative solutions, and help build backends and frontends that match the given vision. I am fond of 3D/XR technologies, and try to deepen my skills and create immersive experiences.'
+summary: 'I am a software engineer with 3 years of experience. I specialize in innovative solutions, and help build experiences that match the vision of my clients. I am fond of 3D/XR technologies, and try to deepen my skills and create immersive content.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -46,7 +46,7 @@ badges:
 - type: certification
   name: Professional Scrum Master (PSM I)
   url: "https://www.credly.com/org/scrum-org/badge/professional-scrum-master-i-psm-i"
-  badge: "https://images.credly.com/size/680x680/images/12bddaac-9b71-43fd-a81e-71ebd144ee52/BADGES_FINAL_PSM-I_600.png"
+  badge: "/images/sections/certifications/psmi.png"
 
 - type: certification
   name: Microsoft Certified Azure Fundamentals

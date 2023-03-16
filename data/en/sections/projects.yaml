@@ -16,6 +16,13 @@ buttons:
   filter: "hobby"
 
 projects:
+- name: The Day Before the Harvest
+  logo: /images/sections/projects/harvest.png
+  role: Developer
+  timeline: "Jan 2023"
+  url: https://froissant.itch.io/the-day-before-the-harvest
+  summry: A care game made for Ludum Dare 52 with a team of expert from groupe onepoint. Ranked 113 of 1651
+  tags: ["games", "jam", "challenge"]
 - name: No Time To Dice
   logo: /images/sections/projects/dice.png
   role: Developer

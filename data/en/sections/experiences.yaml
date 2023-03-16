@@ -11,6 +11,23 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: IBM Interactive
+    url: "https://www.ibminteractive.fr/home"
+    location: Paris, France
+    overview: IBM Interactive is an IBM company specialized in consulting. It promotes quality and innovative delivery.
+  positions:
+  - designation: Fullstack engineer and Scrum Master
+    start: Sept 2022
+    end: Ongoing
+    responsibilities:
+    - Conceive and animate scrum rituals, be the servant leader of the team's agility
+    - Advice clients on agility concepts and help propose and create solution to put them in place
+    - Synchronize different teams on deployment and testing sessions on solutions
+    - Advice on solutions and architecture, reworking of deployment procedure and code
+    - Peer programming and code review, support of the dev team through code and tools
+    - Creation of deployment tools to help the development team automatize the process
+
+- company:
     name: Groupe onepoint.
     url: "https://www.groupeonepoint.com/fr/"
     location: Paris, France
